@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chilacayote</string>
+    <string name="puchame">Apachurrame</string>
+    <string name="edit_mensaje">Escribe un mensaje</string>
+</resources>
